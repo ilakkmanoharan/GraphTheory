@@ -8,6 +8,10 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.Stack;
 
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
+
 public class GraphImpl {
 
 	  private static List<Vertex> nodes;
